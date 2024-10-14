@@ -1,6 +1,6 @@
 package com.example.demo.model;
 
 public class Category {
-  Long id;
-  String name;
+  private Long id;
+  private String name;
 }

@@ -1,7 +1,8 @@
 package com.example.demo.model;
 
 public class Task {
-  Long id;
-  String name;
-  Category category;
+  private Long id;
+  private String name;
+  private String description;
+  private Category category;
 }

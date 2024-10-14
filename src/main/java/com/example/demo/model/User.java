@@ -1,7 +1,7 @@
 package com.example.demo.model;
 
 public class User {
-  Long id;
-  String name;
-  String role;
+  private Long id;
+  private String name;
+  private String role;
 }
